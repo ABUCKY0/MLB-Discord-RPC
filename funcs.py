@@ -1,0 +1,2 @@
+def checkValidity(var):
+    pass
